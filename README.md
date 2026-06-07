@@ -33,7 +33,7 @@ codebase, which is a realistic way to practice the language.
   next surge. A faint marker on the destination keeps the endpoint locatable; it shows
   through walls, while the surge sparks sit on the terrain.
 
-[Software Demo Video](https://www.youtube.com/) <!-- TODO: replace with your recorded demo link -->
+[Software Demo Video]([https://www.youtube.com/](https://youtu.be/tQrq1y84Gz8)) <!-- TODO: replace with your recorded demo link -->
 
 # Development Environment
 
