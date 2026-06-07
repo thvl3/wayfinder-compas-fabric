@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "tools",
+  "ingredients": [
+    { "item": "minecraft:compass" },
+    { "item": "minecraft:ender_eye" }
+  ],
+  "result": {
+    "id": "wayfinder:wayfinder_compass",
+    "count": 1
+  }
+}
